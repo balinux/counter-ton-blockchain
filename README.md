@@ -31,3 +31,12 @@
 You can view it at https://testnet.tonscan.org/address/EQDy0hb-GMWLH8dVewk9i4wAFvviN94Wzl_rFVkz5m4rgmeT
 ID 3320n```
 ````
+
+[ton explore](https://testnet.tonscan.org/address/EQDy0hb-GMWLH8dVewk9i4wAFvviN94Wzl_rFVkz5m4rgmeT)
+[ton faucet](https://t.me/testgiver_ton_bot)
+
+### Refernsi tutorial
+
+[build your first Ton Dapp with tact](https://www.youtube.com/watch?v=J7ZF3KWxX_8)
+
+[create ton tact app](https://docs.tact-lang.org/)
